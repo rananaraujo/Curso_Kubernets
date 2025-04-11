@@ -1,0 +1,6 @@
+  database: mysql
+  database_uri: mysql://localhost:33306
+  font.title: Arial Bold
+  background-color: red
+  theme.1: clean
+  thema.2: dark
